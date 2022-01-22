@@ -25,7 +25,7 @@ Features not implemented in the game :
 - Graphics
 - x2/x4/x6 cases
 - error for wrong card in player cards
-- player cards are visible for everyone
+- player cards are hidden for everyone except the player
 - AI (VS computer)
 
 
