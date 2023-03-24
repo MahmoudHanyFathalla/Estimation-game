@@ -4,7 +4,7 @@
 #include<string.h>
 #include<windows.h>
 #include<mmsystem.h>
-/////////
+/////
 #define SIZE 52
  struct p1
  {
