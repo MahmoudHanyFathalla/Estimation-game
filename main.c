@@ -150,6 +150,7 @@ int calco(int scoor,int n)
    }
       return point1;
 }
+//
 //check avoid.....
 void avoid(char *player[])
 {
